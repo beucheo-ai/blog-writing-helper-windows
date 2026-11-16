@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+# 내 글, 내 규칙, 분석 결과는 올라가지 않게
+posts/*
+!posts/_예시/
+reports/
+rules/내규칙*.md
